@@ -1,6 +1,10 @@
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
+!**/src/Polymorphism1
+!**/src/Polymorphism2
+!**/src/Polymorphism3
+!**/src/Polymorphism4
 !**/src/test/**/out/
 
 ### Eclipse ###
